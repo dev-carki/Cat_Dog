@@ -1,6 +1,9 @@
 # Model
 - AlexNet
 
+# Data
+- https://www.kaggle.com/datasets/tongpython/cat-and-dog?select=training_set
+
 # Dependency
 ![Python](https://img.shields.io/badge/python_3.10.18-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch_2.7.1-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
